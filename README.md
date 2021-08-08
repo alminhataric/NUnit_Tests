@@ -1,2 +1,2 @@
 # NUnit_Tests
- NUnites tests with Mock and Interface.
+ NUnites tests writen in C#, also using Mock and Interface.
